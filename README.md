@@ -11,6 +11,7 @@ Clasifica pacientes en **con gripe** o **salud normal** a partir de signos vital
 **Variables analizadas:** temperatura, frecuencia cardiaca, saturación de oxígeno, glicemia, tensión arterial.
 
 **Funcionalidades:**
+
 - Comparación entre datos originales (con outliers) y datos limpios
 - Control del porcentaje de datos de prueba
 - Visualización de la matriz de confusión y métricas de clasificación
@@ -26,6 +27,7 @@ Clasifica pacientes en **con gripe** o **salud normal** a partir de signos vital
 Analiza la cobertura de telefonía móvil en el Perú a nivel de departamento, zona (urbana/rural) y operadora, con datos de OSIPTEL (marzo 2023).
 
 **Funcionalidades:**
+
 - Mapa de calor interactivo de cobertura por departamento
 - Comparación de operadoras por zona geográfica
 - Pruebas estadísticas: chi-cuadrado, Kruskal-Wallis, Mann-Whitney
@@ -37,15 +39,16 @@ Analiza la cobertura de telefonía móvil en el Perú a nivel de departamento, z
 
 ---
 
-**Fuente de datos:** OSIPTEL / Plataforma Nacional de Datos Abiertos del Perú
+**Fuente de datos:** OSIPTEL | Plataforma Nacional de Datos Abiertos del Perú
 
 ---
 
-## Dashboard 3 - Análisis Agrícola Agropuno
+## Dashboard 3 - Análisis Agrícola AgroPuno
 
 Aplicación web interactiva para el análisis de datos de siembra y producción agrícola en las 13 provincias de la región de Puno (1997 - 2021).
 
 **Funcionalidades:**
+
 - Visualización de histogramas, gráficos circulares y polígonos de frecuencia por provincia y cultivo
 - Evaluación estadística inteligente con detección automática de normalidad (Shapiro-Wilk)
 - Pruebas de hipótesis (T-Student y Mann-Whitney) y correlaciones (Pearson y Spearman)
